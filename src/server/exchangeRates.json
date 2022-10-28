@@ -1,0 +1,531 @@
+{
+  "data": [
+    {
+      "country_currency_desc": "Afghanistan-Afghani",
+      "exchange_rate": "88.04",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Albania-Lek",
+      "exchange_rate": "118.93",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Algeria-Dinar",
+      "exchange_rate": "140.422",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Angola-Kwanza",
+      "exchange_rate": "423.412",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Antigua & Barbuda-E. Caribbean Dollar",
+      "exchange_rate": "2.7",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Argentina-Peso",
+      "exchange_rate": "153.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Armenia-Dram",
+      "exchange_rate": "420.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Australia-Dollar",
+      "exchange_rate": "1.547",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Azerbaijan-Manat",
+      "exchange_rate": "1.7",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Bahamas-Dollar",
+      "exchange_rate": "1.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Bahrain-Dinar",
+      "exchange_rate": "0.377",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Bangladesh-Taka",
+      "exchange_rate": "103.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Barbados-Dollar",
+      "exchange_rate": "2.02",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Belarus-New Ruble",
+      "exchange_rate": "2.518",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Belize-Dollar",
+      "exchange_rate": "2.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Benin-CFA Franc",
+      "exchange_rate": "673.48",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Bermuda-Dollar",
+      "exchange_rate": "1.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Bolivia-Boliviano",
+      "exchange_rate": "6.85",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Bosnia-Marka",
+      "exchange_rate": "2.006",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Botswana-Pula",
+      "exchange_rate": "13.28",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Brazil-Real",
+      "exchange_rate": "5.397",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Brunei-Dollar",
+      "exchange_rate": "1.436",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Bulgaria-Lev New",
+      "exchange_rate": "2.006",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Burkina Faso-CFA Franc",
+      "exchange_rate": "673.48",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Burma-Kyat",
+      "exchange_rate": "2100.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Burundi-Franc",
+      "exchange_rate": "2031.97",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Cambodia-Riel",
+      "exchange_rate": "4051.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Cameroon-CFA Franc",
+      "exchange_rate": "672.91",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Canada-Dollar",
+      "exchange_rate": "1.374",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Cape Verde-Escudo",
+      "exchange_rate": "113.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Cayman Island-Dollar",
+      "exchange_rate": "0.82",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Central African Rep.-CFA Franc",
+      "exchange_rate": "672.91",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Chad-CFA Franc",
+      "exchange_rate": "672.91",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Chile-Peso",
+      "exchange_rate": "960.1",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "China-Renminbi",
+      "exchange_rate": "7.114",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Colombia-Peso",
+      "exchange_rate": "4518.3",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Comoros-Franc",
+      "exchange_rate": "507.53",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Congo-CFA Franc",
+      "exchange_rate": "672.91",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Costa Rica-Colon",
+      "exchange_rate": "625.39",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Cote D'ivoire-CFA Franc",
+      "exchange_rate": "673.48",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Croatia-KUNA",
+      "exchange_rate": "7.63",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Cuba-Chavito",
+      "exchange_rate": "1.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Cuba-Peso",
+      "exchange_rate": "24.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Czech. Republic-Koruna",
+      "exchange_rate": "24.371",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Dem. Rep. of Congo-Franc",
+      "exchange_rate": "1998.5",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Denmark-Krone",
+      "exchange_rate": "7.629",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Djibouti-Franc",
+      "exchange_rate": "177.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Dominican Republic-Peso",
+      "exchange_rate": "53.31",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Ecuador-Dolares",
+      "exchange_rate": "1.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Egypt-Pound",
+      "exchange_rate": "19.49",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "El Salvador-Dollar",
+      "exchange_rate": "1.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Equatorial Guinea-CFA Franc",
+      "exchange_rate": "672.91",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Eritrea-Nakfa",
+      "exchange_rate": "15.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Ethiopia-Birr",
+      "exchange_rate": "52.548",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Euro Zone-Euro",
+      "exchange_rate": "1.026",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Fiji-Dollar",
+      "exchange_rate": "2.27",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Gabon-CFA Franc",
+      "exchange_rate": "672.91",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Gambia-Dalasi",
+      "exchange_rate": "55.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Georgia-Lari",
+      "exchange_rate": "2.792",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Ghana-Cedi",
+      "exchange_rate": "10.2",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Grenada-E.Caribbean Dollar",
+      "exchange_rate": "2.7",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Guatemala-Quetzal",
+      "exchange_rate": "7.852",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Guinea Bissau-CFA Franc",
+      "exchange_rate": "673.48",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Guinea-Franc",
+      "exchange_rate": "8595.4",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Guyana-Dollar",
+      "exchange_rate": "215.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Haiti-Gourde",
+      "exchange_rate": "116.944",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Honduras-Lempira",
+      "exchange_rate": "24.56",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Hong Kong-Dollar",
+      "exchange_rate": "7.85",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Hungary-Forint",
+      "exchange_rate": "432.45",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Iceland-Krona",
+      "exchange_rate": "144.39",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "India-Rupee",
+      "exchange_rate": "81.476",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Indonesia-Rupiah",
+      "exchange_rate": "15209.78",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Iran-Rial",
+      "exchange_rate": "42000.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Iraq-Dinar",
+      "exchange_rate": "1458.54",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Israel-Shekel",
+      "exchange_rate": "3.565",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Jamaica-Dollar",
+      "exchange_rate": "150.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Japan-Yen",
+      "exchange_rate": "144.63",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Jordan-Dinar",
+      "exchange_rate": "0.708",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Kazakhstan-Tenge",
+      "exchange_rate": "476.39",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Kenya-Shilling",
+      "exchange_rate": "120.65",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Korea-Won",
+      "exchange_rate": "1436.66",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Kuwait-Dinar",
+      "exchange_rate": "0.31",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Kyrgyzstan-Som",
+      "exchange_rate": "80.183",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Laos-Kip",
+      "exchange_rate": "16473.5",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Lebanon-Pound",
+      "exchange_rate": "1500.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Lesotho-Maloti",
+      "exchange_rate": "17.988",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Liberia-Dollar",
+      "exchange_rate": "152.5",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Libya-Dinar",
+      "exchange_rate": "5.042",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Madagascar-Ariary",
+      "exchange_rate": "4120.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Malawi-Kwacha",
+      "exchange_rate": "1035.49",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Malaysia-Ringgit",
+      "exchange_rate": "4.635",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Maldives-Rufiyaa",
+      "exchange_rate": "15.4",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Mali-CFA Franc",
+      "exchange_rate": "673.48",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Marshall Islands-U.S. Dollar",
+      "exchange_rate": "1.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Mauritania-Ouguiya",
+      "exchange_rate": "37.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Mauritius-Rupee",
+      "exchange_rate": "45.6",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Mexico-Peso",
+      "exchange_rate": "20.149",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Micronesia-U.S. Dollar",
+      "exchange_rate": "1.0",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Moldova-LEU",
+      "exchange_rate": "19.401",
+      "record_date": "2022-09-30"
+    },
+    {
+      "country_currency_desc": "Mongolia-Tugrik",
+      "exchange_rate": "3333.02",
+      "record_date": "2022-09-30"
+    }
+  ],
+  "meta": {
+    "count": 100,
+    "labels": {
+      "country_currency_desc": "Country - Currency Description",
+      "exchange_rate": "Exchange Rate",
+      "record_date": "Record Date"
+    },
+    "dataTypes": {
+      "country_currency_desc": "STRING",
+      "exchange_rate": "NUMBER",
+      "record_date": "DATE"
+    },
+    "dataFormats": {
+      "country_currency_desc": "String",
+      "exchange_rate": "10.2",
+      "record_date": "YYYY-MM-DD"
+    },
+    "total-count": 168,
+    "total-pages": 2
+  },
+  "links": {
+    "self": "&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+    "first": "&page%5Bnumber%5D=1&page%5Bsize%5D=100",
+    "prev": null,
+    "next": "&page%5Bnumber%5D=2&page%5Bsize%5D=100",
+    "last": "&page%5Bnumber%5D=2&page%5Bsize%5D=100"
+  }
+}
